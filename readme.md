@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/acorn421/awesome-smart-contract-datasets/actions/workflows/lint.yaml/badge.svg)](https://github.com/acorn421/awesome-smart-contract-datasets/actions/workflows/lint.yaml)
+# Awesome Smart Contract Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/acorn421/awesome-smart-contract-datasets/actions/workflows/lint.yaml/badge.svg)](https://github.com/acorn421/awesome-smart-contract-datasets/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -14,9 +14,9 @@ Source codes, vulnerabilities, and more.
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
+<!-- <a href="" target="_blank" rel="noopener noreferrer">
   <img src="" />
-</a>
+</a> -->
 
 <!-- description -->
 
@@ -26,8 +26,8 @@ Source codes, vulnerabilities, and more.
 
 ## Contents
 
-- [Source codes](#Source-codes)
-- [Vulnerabilities](#section-1)
+- [Only Codes](#only-codes)
+- [With Vulnerabilities or Bugs](#with-vulnerabilities-or-bugs)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -58,7 +58,7 @@ Source codes, vulnerabilities, and more.
 
 - [DAppSCAN](https://github.com/InPlusLab/DAppSCAN) - Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.
 
-- [smartbugs-curated](https://github.com/smartbugs/smartbugs-curated) - SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts
+- [smartbugs-curated](https://github.com/smartbugs/smartbugs-curated) - SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts.
 
 - [SmartScan-Dataset](https://github.com/NoamaSamreen93/SmartScan-Dataset) - This repositoray presents datasets and empirical analysis results that use code clone detection techniques for identifying vulnerabilities and their variations in smart contracts.
 
@@ -66,7 +66,7 @@ Source codes, vulnerabilities, and more.
 
 - [AFT2020/dataset](https://github.com/AFT2020/dataset) - (UNVERIFIED) This repository contains a smart contract vulnerability dataset that is used in machine learning experiments.
 
-- [Web3Bugs](https://github.com/kupl/VeriSmart-benchmarks) - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
+- [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
 - [smart-contract-vulndb](https://github.com/tintinweb/smart-contract-vulndb) - An open dataset of publicly available smart contract issues aggregated from various audit reports.
 
@@ -78,7 +78,7 @@ Source codes, vulnerabilities, and more.
 
 - [solidity-defi-vulnerabilities](https://huggingface.co/datasets/seyyedaliayati/solidity-defi-vulnerabilities) - It contains data related to various decentralized finance (DeFi) attack scenarios and vulnerabilities, including information about attack explanations, test cases, dates, token counts, interfaces, lost values, attack titles, and contract paths.
 
-- [slither-audited-smart-contracts ](https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts) - This dataset contains source code and deployed bytecode for Solidity Smart Contracts that have been verified on Etherscan.io, along with a classification of their vulnerabilities according to the Slither static analysis framework.
+- [slither-audited-smart-contracts](https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts) - This dataset contains source code and deployed bytecode for Solidity Smart Contracts that have been verified on Etherscan.io, along with a classification of their vulnerabilities according to the Slither static analysis framework.
 
 
 
