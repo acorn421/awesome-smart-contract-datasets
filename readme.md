@@ -26,9 +26,13 @@ Source codes, vulnerabilities, and more.
 
 ## Contents
 
-- [Only Codes](#only-codes)
-- [With Vulnerabilities or Bugs](#with-vulnerabilities-or-bugs)
-- [Follow](#follow)
+- [Awesome Smart Contract Datasets  ](#awesome-smart-contract-datasets--)
+  - [Contents](#contents)
+  - [Only Codes](#only-codes)
+  - [With Vulnerabilities or Bugs](#with-vulnerabilities-or-bugs)
+  - [Follow](#follow)
+  - [Contributing](#contributing)
+    - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -80,6 +84,11 @@ Source codes, vulnerabilities, and more.
 
 - [slither-audited-smart-contracts](https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts) - This dataset contains source code and deployed bytecode for Solidity Smart Contracts that have been verified on Etherscan.io, along with a classification of their vulnerabilities according to the Slither static analysis framework.
 
+- [SolidiFI-benchmark](https://github.com/DependableSystemsLab/SolidiFI-benchmark) - Repository of benchmarks to evaluate Solidity Smart contract analysis tools
+
+- [A_benchmark_dataset_of_Solidity_smart_contracts](https://zenodo.org/records/7744053) - A benchmark dataset contains 4,364 real-world Solidity smart contracts, which are manually labeled with ten types of vulnerabilities.
+
+- [Vulnerable_Verified_Smart_Contracts](https://figshare.com/articles/dataset/Vulnerable_Verified_Smart_Contracts/21990287) - Dataset of real vulnerable Ethereum smart contracts
 
 
 <!-- END CONTENT -->
