@@ -44,6 +44,8 @@ Source codes, vulnerabilities, and more.
 
 - [smartbugs-wild](https://github.com/smartbugs/smartbugs-wild) - This repository contains 47,398 smart contracts extracted from the Ethereum network.
 
+- [DISL](https://huggingface.co/datasets/ASSERT-KTH/DISL) - 514506 unique Solidity files that have been deployed to Ethereum mainnet.
+
 
 
 ## With Vulnerabilities or Bugs
@@ -84,11 +86,15 @@ Source codes, vulnerabilities, and more.
 
 - [slither-audited-smart-contracts](https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts) - This dataset contains source code and deployed bytecode for Solidity Smart Contracts that have been verified on Etherscan.io, along with a classification of their vulnerabilities according to the Slither static analysis framework.
 
-- [SolidiFI-benchmark](https://github.com/DependableSystemsLab/SolidiFI-benchmark) - Repository of benchmarks to evaluate Solidity Smart contract analysis tools
+- [SolidiFI-benchmark](https://github.com/DependableSystemsLab/SolidiFI-benchmark) - Repository of benchmarks to evaluate Solidity Smart contract analysis tools.
 
 - [A_benchmark_dataset_of_Solidity_smart_contracts](https://zenodo.org/records/7744053) - A benchmark dataset contains 4,364 real-world Solidity smart contracts, which are manually labeled with ten types of vulnerabilities.
 
-- [Vulnerable_Verified_Smart_Contracts](https://figshare.com/articles/dataset/Vulnerable_Verified_Smart_Contracts/21990287) - Dataset of real vulnerable Ethereum smart contracts
+- [Vulnerable_Verified_Smart_Contracts](https://figshare.com/articles/dataset/Vulnerable_Verified_Smart_Contracts/21990287) - Dataset of real vulnerable Ethereum smart contracts.
+
+- [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+
+- [smart-contract-vulnerability-dataset](https://github.com/imranpollob/smart-contract-vulnerability-dataset) - Tagged dataset for Time Manipulation Vulnerability in Ethereum Smart Contracts.
 
 
 <!-- END CONTENT -->
