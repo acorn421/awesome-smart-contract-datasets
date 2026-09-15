@@ -95,6 +95,7 @@ Source codes, vulnerabilities, and more.
 - [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
 - [smart-contract-vulnerability-dataset](https://github.com/imranpollob/smart-contract-vulnerability-dataset) - Tagged dataset for Time Manipulation Vulnerability in Ethereum Smart Contracts.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 
 <!-- END CONTENT -->
